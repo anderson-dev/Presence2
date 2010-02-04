@@ -68,7 +68,7 @@
 
 - (id) init
 {
-	return [self initWithPersonName: @"No Name" status: @"No Status Available" image: nil] ;
+	return [self initWithPersonName: @"No Name" status: [NSArray arrayWithObject: @"No Status Available"] image: nil] ;
 }
 
 - (id) initWithPersonName: (NSString *)aFullName status: (NSArray *)arrayOfStatuses image: (UIImage *)anImage

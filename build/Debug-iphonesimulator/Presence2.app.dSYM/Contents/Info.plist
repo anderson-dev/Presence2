@@ -14,10 +14,5 @@
 		<string>????</string>
 		<key>CFBundleVersion</key>
 		<string>1.0</string>
-		<key>dSYM_UUID</key>
-		<dict>
-			<key>i386</key>
-			<string>214AB5FB-9B70-8D70-A8A5-77E4A0001940</string>
-		</dict>
 	</dict>
 </plist>

@@ -95,8 +95,8 @@
     }
     
     // Set up the cell...
-	cell.text = [[people objectAtIndex: indexPath.row] fullName] ;
-	cell.image = [[people objectAtIndex: indexPath.row] image] ;
+	cell.textLabel.text = [[people objectAtIndex: indexPath.row] fullName] ;
+	cell.imageView.image = [[people objectAtIndex: indexPath.row] image] ;
 
     return cell;
 }
