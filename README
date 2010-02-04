@@ -1,0 +1,1 @@
+This basic iPhone twitter client was created as a class project in the Stanford iPhone Programming course (CS193p) on iTunesU. It implements a custom TableViewCell called VariableHeightTableViewCell to hide the complexities of facilitating a variable height cell, depending on text size, in a TableView.
