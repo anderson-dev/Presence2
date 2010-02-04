@@ -1,0 +1,56 @@
+TPresence2
+v7
+r1
+cCheck dependencies
+
+N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/MainWindow.xib
+c000000004A6BD4C80000000000001BB2
+t1248580808
+s7090
+
+N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/TwitterUsers.plist
+c000000004A6BD4C8000000000000011E
+t1248580808
+s286
+
+N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug/Presence2.app
+t2
+s0
+
+N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug/Presence2.app/Contents/Info.plist
+t2
+s0
+
+N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug/Presence2.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug/Presence2.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug/Presence2.app/Contents/Resources/TwitterUsers.plist
+t2
+s0
+
+NInfo.plist
+c000000004A6BD4C80000000000000381
+t1248580808
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287003134#287003134#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.1'1(4@58"error: There is no SDK with the name or path 'iphoneos2.1'287003134#18446744073709551615#0#0(1@0"0(0#1#0"4300885448#0"0#
+
+CCompileXIB /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/MainWindow.xib
+r0
+
+CCopyPlistFile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug/Presence2.app/Contents/Resources/TwitterUsers.plist TwitterUsers.plist
+r0
+
+CProcessInfoPlistFile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug/Presence2.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug/Presence2.app
+r0
+
