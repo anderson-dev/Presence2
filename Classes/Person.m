@@ -52,8 +52,14 @@
 	for ( NSString * eachString in usernames )
 	{
 		Person * newPerson = [[Person alloc] initWithUsername: eachString] ;
-		[people addObject: newPerson] ;
-		[newPerson release] ;
+		if (!newPerson) {
+			NSLog( @"%@ could not be initialized", eachString ) ;
+			[people removeObject: eachString] ;
+		}
+		else {
+			[people addObject: newPerson] ;
+			[newPerson release] ;
+		}
 	}
 	
 	// show the contents of the array
@@ -87,6 +93,9 @@
 {
 	// Use Twitter to fetch data
 	NSDictionary * retrievedUserInfo = [TwitterHelper fetchInfoForUsername: aUsername] ;
+	if (!retrievedUserInfo) {
+		return nil ;
+	}
 	NSArray * retrievedStatuses = [TwitterHelper fetchTimelineForUsername: aUsername] ;
 	NSMutableArray * tempArray = [NSMutableArray arrayWithCapacity: 3] ;
 		
@@ -94,6 +103,7 @@
 	NSString * anImageURL = [retrievedUserInfo objectForKey: @"profile_image_url"] ;
 	imageURL = [NSURL URLWithString: anImageURL] ;
 	UIImage * anImage = [UIImage imageWithData: [[NSData alloc] initWithContentsOfURL: imageURL]] ;
+	
 	
 	int i = 0;
 	for ( i; i < [retrievedStatuses count]; i++ )
@@ -109,6 +119,9 @@
 
 - (NSString *) description
 {
+	if (![statusMessages count]) {
+		return [NSString stringWithFormat: @"\nName = %@\nImageURL = %@\nStatusString = none", self.fullName, imageURL] ;
+	}
 	return [NSString stringWithFormat: @"\nName = %@\nImageURL = %@\nStatusString = %@", self.fullName, imageURL, [statusMessages objectAtIndex: 0]] ;
 }
 

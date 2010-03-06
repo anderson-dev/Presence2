@@ -1,7 +1,7 @@
 TPresence2
 v7
 r0
-t287008567.853087
+t289584611.606805
 cCheck dependencies
 cProcessInfoPlistFile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Info.plist Info.plist
 cCompileXIB /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/MainWindow.xib
@@ -105,9 +105,9 @@ i<UIKit/UIKit.h>
 i"TwitterHelper.h"
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Person.m
-c000000004B6B2FB30000000000000CE2
-t1265315763
-s3298
+c000000004B927E070000000000000E2F
+t1267891719
+s3631
 i"Person.h"
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.h
@@ -119,9 +119,9 @@ i"Person.h"
 i"VariableHeightCell.h"
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m
-c000000004A6BD4C8000000000000134B
-t1248580808
-s4939
+c000000004B9278800000000000001359
+t1267890304
+s4953
 i"PersonDetailTableViewController.h"
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonListTableViewController.h
@@ -153,8 +153,8 @@ s1080
 i"Presence2AppDelegate.h"
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/TwitterHelper.h
-c000000004A6BD4C80000000000000446
-t1248580808
+c000000004B927E630000000000000446
+t1267891811
 s1094
 i<Foundation/Foundation.h>
 
@@ -195,11 +195,11 @@ t1248580808
 s286
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app
-t1265315763
+t1267891811
 s238
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app.dSYM
-t1265315763
+t1267891811
 s102
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Info.plist
@@ -215,8 +215,8 @@ t1265314850
 s8
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence2
-t1265315763
-s61260
+t1267891811
+s61276
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/TwitterUsers.plist
 t1265314853
@@ -231,15 +231,15 @@ t1265314857
 s7672
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Person.o
-t1265315763
-s20100
+t1267891811
+s20640
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonDetailTableViewController.o
-t1265314857
-s37384
+t1267891811
+s37452
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonListTableViewController.o
-t1265315632
+t1267891811
 s41784
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Presence2.LinkFileList
@@ -248,7 +248,7 @@ t1265314850
 s1507
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Presence2AppDelegate.o
-t1265314856
+t1267891811
 s40960
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/SBJSON.o
@@ -256,8 +256,8 @@ t1265314857
 s47536
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/TwitterHelper.o
-t1265314857
-s9836
+t1267891811
+s9804
 
 N/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/VariableHeightCell.o
 t1265314857
@@ -284,7 +284,7 @@ s897
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies287008567#287008567#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies289584611#289584611#0(0"0(0#1#0"4300885448#0"0#
 
 CCompileC build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/NSObject+SBJSON.o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s287007656.898005
@@ -313,8 +313,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@90"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/JSON/NSString+SBJSON.m287007656#287007657#0(0"0(0#0#82"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/JSON/NSString+SBJSON.m4300885448#2082"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/JSON/NSString+SBJSON.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/NSString+SBJSON.o0#
 
 CCompileC build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Person.o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Person.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s287008563.202827
-e287008563.521236
+s289584611.201569
+e289584611.335020
 r1
 xCompileC
 xbuild/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Person.o
@@ -323,11 +323,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@76"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Person.m287008563#287008563#0(0"0(0#0#68"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Person.m4300885448#2059"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Person.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Person.o0#
+lSLF07#2@76"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Person.m289584611#289584611#0(0"0(0#0#68"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Person.m4300885448#2059"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Person.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Person.o0#
 
 CCompileC build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonDetailTableViewController.o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s287007657.155949
-e287007657.251898
+s289584611.471211
+e289584611.549492
 r1
 xCompileC
 xbuild/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonDetailTableViewController.o
@@ -336,13 +336,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m: In function '-[PersonDetailTableViewController tableView:cellForRowAtIndexPath:]':
-o/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m:106: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)
-lSLF07#2@101"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m287007657#287007657#0(481"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m: In function '-[PersonDetailTableViewController tableView:cellForRowAtIndexPath:]':/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m:106: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)1(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)287007657#178#303#0(6@93"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m270273608#106#0#106#0#33"'*' is deprecated (declared at *)0(0#0#93"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m4300885448#2109"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonDetailTableViewController.o0#
+lSLF07#2@101"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m289584611#289584611#0(0"0(0#0#93"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m4300885448#2109"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonDetailTableViewController.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonDetailTableViewController.o0#
 
 CCompileC build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonListTableViewController.o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonListTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s287008431.828884
-e287008432.272420
+s289584611.365919
+e289584611.508870
 r1
 xCompileC
 xbuild/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonListTableViewController.o
@@ -351,11 +349,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@99"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonListTableViewController.m287008431#287008432#0(0"0(0#0#91"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonListTableViewController.m4300885448#2105"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonListTableViewController.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonListTableViewController.o0#
+lSLF07#2@99"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonListTableViewController.m289584611#289584611#0(0"0(0#0#91"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonListTableViewController.m4300885448#2105"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/PersonListTableViewController.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/PersonListTableViewController.o0#
 
 CCompileC build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Presence2AppDelegate.o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Presence2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s287007656.618809
-e287007656.897896
+s289584611.199590
+e289584611.365761
 r1
 xCompileC
 xbuild/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Presence2AppDelegate.o
@@ -364,7 +362,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Presence2AppDelegate.m287007656#287007656#0(0"0(0#0#82"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Presence2AppDelegate.m4300885448#2087"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Presence2AppDelegate.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Presence2AppDelegate.o0#
+lSLF07#2@90"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Presence2AppDelegate.m289584611#289584611#0(0"0(0#0#82"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Presence2AppDelegate.m4300885448#2087"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/Presence2AppDelegate.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Presence2AppDelegate.o0#
 
 CCompileC build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/SBJSON.o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s287007656.974840
@@ -380,8 +378,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@81"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/JSON/SBJSON.m287007656#287007657#0(0"0(0#0#73"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/JSON/SBJSON.m4300885448#2064"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/JSON/SBJSON.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/SBJSON.o0#
 
 CCompileC build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/TwitterHelper.o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/TwitterHelper.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s287007657.017125
-e287007657.109082
+s289584611.335433
+e289584611.471045
 r1
 xCompileC
 xbuild/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/TwitterHelper.o
@@ -390,7 +388,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/TwitterHelper.m287007657#287007657#0(0"0(0#0#75"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/TwitterHelper.m4300885448#2073"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/TwitterHelper.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/TwitterHelper.o0#
+lSLF07#2@83"Compile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/TwitterHelper.m289584611#289584611#0(0"0(0#0#75"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/TwitterHelper.m4300885448#2073"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -include /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/TwitterHelper.m -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/TwitterHelper.o0#
 
 CCompileC build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/VariableHeightCell.o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Classes/VariableHeightCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s287007657.200344
@@ -439,23 +437,23 @@ xTwitterUsers.plist
 lSLF07#2@23"Copy TwitterUsers.plist287007650#287007653#0(0"0(0#0#70"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/TwitterUsers.plist4300885448#421"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 TwitterUsers.plist --outdir /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app0#
 
 CGenerateDSYMFile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app.dSYM /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence2
-s287008563.607146
-e287008563.633876
+s289584611.582421
+e289584611.603905
 r1
 xGenerateDSYMFile
 x/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app.dSYM
 x/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence2
-lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Presence2.app.dSYM build/Debug-iphonesimulator/Presence2.app/Presence2287008563#287008563#0(0"0(0#0#103"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence24300885448#428"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence2 -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app.dSYM0#
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Presence2.app.dSYM build/Debug-iphonesimulator/Presence2.app/Presence2289584611#289584611#0(0"0(0#0#103"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence24300885448#428"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence2 -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app.dSYM0#
 
 CLd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence2 normal i386
-s287008563.521393
-e287008563.606872
+s289584611.549591
+e289584611.582306
 r1
 xLd
 x/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence2
 xnormal
 xi386
-lSLF07#2@108"Link /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence2287008563#287008563#0(0"0(0#0#0"4300885448#937"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -filelist /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Presence2.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence20#
+lSLF07#2@108"Link /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence2289584611#289584611#0(0"0(0#0#0"4300885448#937"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -filelist /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Objects-normal/i386/Presence2.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Presence20#
 
 CProcessInfoPlistFile /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app/Info.plist Info.plist
 s287007650.877489
@@ -480,10 +478,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@31"Precompile Presence2_Prefix.pch287007654#287007656#0(0"0(0#0#72"/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Presence2_Prefix.pch4300885448#1924"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-generated-files.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-own-target-headers.hmap -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-all-target-headers.hmap -iquote /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/Presence2-project-headers.hmap -F/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/include -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources/i386 -I/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Presence2.build/Debug-iphonesimulator/Presence2.build/DerivedSources -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/Presence2_Prefix.pch -o /var/folders/Mx/Mx+UG-WMGB8xqsnmaGAYPKDE62U/-Caches-/com.apple.Xcode.1674584136/SharedPrecompiledHeaders/Presence2_Prefix-gkslidpludchgvfcsshwvkdyjzyd/Presence2_Prefix.pch.gch0#
 
 CTouch /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app
-s287008563.633977
-e287008563.637135
+s289584611.604049
+e289584611.606708
 r1
 xTouch
 x/Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app
-lSLF07#2@99"Touch /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app287008563#287008563#0(0"0(0#0#0"4300885448#306"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app0#
+lSLF07#2@99"Touch /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app289584611#289584611#0(0"0(0#0#0"4300885448#306"    cd /Users/anderson-dev/Projects/Xcode/CS193p/Presence2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/anderson-dev/Projects/Xcode/CS193p/Presence2/build/Debug-iphonesimulator/Presence2.app0#
 

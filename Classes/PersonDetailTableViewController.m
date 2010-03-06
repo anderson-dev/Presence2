@@ -103,7 +103,8 @@
 	if (cell == nil) {
 		cell = [[[VariableHeightCell alloc] initWithFrame: CGRectZero reuseIdentifier: CellIdentifier] autorelease] ;
 	}
-	[cell setText:[[person statusMessages] objectAtIndex:indexPath.row]];
+	[[cell textLabel] setText:[[person statusMessages] objectAtIndex:indexPath.row]];
+	
 	return cell ;
 
 }
